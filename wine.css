@@ -1,6 +1,6 @@
 @font-face {
     font-family: Druk-Heavy;
-    src: url("./fonts/Druk-Heavy.ttf") format("truetype");
+    src: url("./fonts/Druk-Heavy.ttf") format("OpenType");
     font-weight: normal;
     font-style: normal;
 }
