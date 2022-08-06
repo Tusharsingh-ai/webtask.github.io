@@ -1,3 +1,9 @@
+@font-face {
+    font-family: Druk Heavy;
+    src: url(./fonts/Druk-Heavy.ttf) format("ttf");
+    font-weight: normal;
+    font-style: normal;
+}
 *{
     margin: 0;
     padding: 0;
